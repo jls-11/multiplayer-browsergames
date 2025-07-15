@@ -13,7 +13,7 @@
 - [5. 🏰 Digitale Escape Rooms und Interaktive Abenteuer](#5--digitale-escape-rooms-und-interaktive-abenteuer)
 
 - [6. ⚔ “IO”-Spiele und Echtzeit-Action](#6--io-spiele-und-echtzeit-action)
-- 
+  
 - [7. 🎭 Partyspiele und soziale Deduktionsspiele](#7--partyspiele-und-soziale-deduktionsspiele)
 
 - [8. 🎭 Rollenspiele und Simulationen](#8--rollenspiele-und-simulationen)
