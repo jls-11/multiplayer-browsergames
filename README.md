@@ -2,7 +2,7 @@
 
 # Inhaltsverzeichnis
 
-- [1. 🎲 Brettspiele und Strategiespiele](#1. 🎲 Brettspiele und Strategiespiele)
+- [1. 🎲 Brettspiele und Strategiespiele](# 1. 🎲 Brettspiele und Strategiespiele)
 - [Benutzung](#benutzung)
 - [Lizenz](#lizenz)
 
