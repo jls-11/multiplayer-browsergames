@@ -1,6 +1,6 @@
 # multiplayer-browsergames
 
-# Table of contents
+# Inhalt
 
 - [1. 🎲 Brettspiele und Strategiespiele](#1--brettspiele-und-strategiespiele)
  
