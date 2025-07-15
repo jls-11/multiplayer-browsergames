@@ -1516,44 +1516,44 @@ Täuschung, Abstimmungen, Zeichnen oder schnelles Raten.
 
 ## 🕵 Mafia
 
-**Link:** https://epicmafia.com/lobby/
+**Link:** https://epicmafia.com/lobby/ ❌
 **Spieleranzahl:** 6–12
 **Beschreibung:** Klassisches Rollen- und Bluffspiel mit Mafia und Bürgern.
 **Alternativen:**
 
-- https://mafia.brolia.com/
-- https://mafia.gg
-- https://ultimafia.com/
-- https://www.blankmediagames.com/
+- https://mafia.brolia.com/ ✅
+- https://mafia.gg ❌
+- https://ultimafia.com/ ❌
+- https://www.blankmediagames.com/ ❌
 
 ⸻
 
 ## 🐺 Werewolf / Werwolf
 
-**Link:** https://play-werewolf.herokuapp.com/
+**Link:** https://play-werewolf.herokuapp.com/ ❌
 **Spieleranzahl:** 7–13
 **Beschreibung:** Jede Nacht schlagen Werwölfe zu – finde sie, bevor sie euch finden.
 **Alternativen:**
 
-- https://netgames.io/games/onu-werewolf/
-- https://werewolv.es/
-- https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf
+- https://netgames.io/games/onu-werewolf/ ✅
+- https://werewolv.es/ ✅
+- https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf ❌
 
 ⸻
 
 ## 🧨 Secret Hitler
 
-**Link:** https://private.secrethitler.io/
+**Link:** https://private.secrethitler.io/ ❌
 **Spieleranzahl:** 5–10 (empfohlen: 7–9)
 **Beschreibung:** Finde heraus, wer Faschist ist – oder bleib verborgen als Hitler.
 **Alternativen:**
 
-- https://secret-dictator-game.herokuapp.com/
-- https://secret-hitler.com/
-- https://secret-hitler.online/
-- https://secret.ethanl.ee
-- https://netgames.io/games/secret-hitler/
-- https://boardgamegeek.com/boardgame/188834/secret-hitler
+- https://secret-dictator-game.herokuapp.com/ ✅
+- https://secret-hitler.com/ ✅
+- https://secret-hitler.online/ ✅
+- https://secret.ethanl.ee ❌
+- https://netgames.io/games/secret-hitler/ ✅
+- https://boardgamegeek.com/boardgame/188834/secret-hitler ❌
 
 ⸻
 
@@ -1565,66 +1565,33 @@ Täuschung, Abstimmungen, Zeichnen oder schnelles Raten.
 **Beschreibung:** Widerstand oder Verräter? Bestehe Missionen ohne Sabotage.
 **Alternativen:**
 
-- https://avalongame.online/
-- https://netgames.io/games/avalon/
-- [http://www.theresistanceplus.com/](http://www.theresistanceplus.com/)
-- https://boardgamegeek.com/boardgame/41114/resistance
-- https://boardgamegeek.com/boardgame/128882/resistance-avalon
+- https://avalongame.online/ ❌
+- https://netgames.io/games/avalon/ ✅
+- [http://www.theresistanceplus.com/](http://www.theresistanceplus.com/) ❌
+- https://boardgamegeek.com/boardgame/41114/resistance ❌
+- https://boardgamegeek.com/boardgame/128882/resistance-avalon ❌
 
 ⸻
 
 ## 🕵 Spyfall
 
-**Link:** https://netgames.io/games/spyfall/
+**Link:** https://netgames.io/games/spyfall/ ✅
 **Spieleranzahl:** 4–8
 **Beschreibung:** Ein Spion kennt den Ort nicht – deckt ihn durch clevere Fragen auf.
 **Alternativen:**
 
-- https://spyfall.app/
-- https://spyfall.adrianocola.com/
-- https://spy.uncoverparty.com
-- https://spyfall.tannerkrewson.com/
-- https://spyout.tannerkrewson.com/
-- https://www.spyfall.app/
-- https://boardgamegeek.com/boardgame/166384/spyfall
-
-⸻
-
-## 🔪 Deception: Murder in Hong Kong
-
-**Link:** https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong
-**Spieleranzahl:** 4–12
-**Beschreibung:** Deduktion trifft auf Krimi – finde den Mörder mit Hinweisen.
-
-⸻
-
-## 🧠 Insider
-
-**Link:** https://insider-online.herokuapp.com/
-**Spieleranzahl:** 4–15
-**Beschreibung:** Einer kennt die Antwort – aber ist er ein Insider oder Mitspieler?
-**Alternativen:**
-
-- https://boardgamegeek.com/boardgame/206051/insider
-
-⸻
-
-## ⚔ Shadow Hunters
-
-
-**Link:** [http://www.shadowhunters.live/](http://www.shadowhunters.live/)
-**Spieleranzahl:** 4–8
-**Beschreibung:** Jede Rolle kämpft für ihre Fraktion – finde Verbündete, bevor es zu
-spät ist.
-**Alternativen:**
-
-- https://boardgamegeek.com/boardgame/24098/shadow-hunters
+- https://spyfall.app/ ✅
+- https://spyfall.adrianocola.com/ ✅ DEUTSCH!
+- https://spy.uncoverparty.com ✅
+- https://spyfall.tannerkrewson.com/ ❓
+- https://spyout.tannerkrewson.com/ ❓
+- https://boardgamegeek.com/boardgame/166384/spyfall ❌
 
 ⸻
 
 ## 🔐 Enigma
 
-**Link:** https://netgames.io/games/enigma/
+**Link:** https://netgames.io/games/enigma/ ✅
 **Spieleranzahl:** 4–6
 **Beschreibung:** Teamspiel mit versteckten Rollen und strategischem Raten.
 
@@ -1638,7 +1605,7 @@ Diese Spiele fördern Kreativität, schnelles Denken und lustiges Raten in Grupp
 
 ## 🦕 Drawasaurus
 
-**Link:** https://www.drawasaurus.org
+**Link:** https://www.drawasaurus.org ✅
 **Spieleranzahl:** 2–12
 **Beschreibung:** Zeichne ein Wort – andere raten, was es ist. Wie Montagsmaler.
 
@@ -1646,7 +1613,7 @@ Diese Spiele fördern Kreativität, schnelles Denken und lustiges Raten in Grupp
 
 ## 🖌 Gartic.io
 
-**Link:** https://gartic.io
+**Link:** https://gartic.io ✅
 **Spieleranzahl:** 4–12
 **Beschreibung:** Online-Zeichenspiel mit verschiedenen Themenräumen.
 **Alternativen:**
@@ -1657,7 +1624,7 @@ Diese Spiele fördern Kreativität, schnelles Denken und lustiges Raten in Grupp
 
 ## 📞 Gartic Phone
 
-**Link:** https://garticphone.com
+**Link:** https://garticphone.com ✅
 **Spieleranzahl:** 4–15
 **Beschreibung:** Kombination aus Zeichnen und Stille-Post – immer absurder und
 lustiger.
@@ -1667,7 +1634,7 @@ lustiger.
 
 ## ✏ Skribbl.io
 
-**Link:** https://skribbl.io
+**Link:** https://skribbl.io ✅
 **Spieleranzahl:** 2–12
 **Beschreibung:** Rundenbasiertes Zeichenspiel – wer rät das Wort zuerst?
 
@@ -1675,7 +1642,7 @@ lustiger.
 
 ## 🧩 Broken Picturephone
 
-**Link:** https://www.brokenpicturephone.com
+**Link:** https://www.brokenpicturephone.com ✅
 **Spieleranzahl:** 4–14
 **Beschreibung:** Abwechselnd Zeichnen und Beschreiben – das Chaos ist garantiert!
 
@@ -1683,7 +1650,7 @@ lustiger.
 
 ## 🎨 Guess Doodle
 
-**Link:** https://www.guessdoodle.com
+**Link:** https://www.guessdoodle.com ❓
 **Spieleranzahl:** 2–15
 **Beschreibung:** Zeichne und rate schnell mit integrierter Punktezählung.
 
@@ -1691,7 +1658,7 @@ lustiger.
 
 ## 💥 Scrawl Brawl
 
-**Link:** https://www.scrawlbrawl.tv
+**Link:** https://www.scrawlbrawl.tv ✅
 **Spieleranzahl:** 4–14
 **Beschreibung:** Kämpfe mit Zeichnungen – Punkte gibt’s für Humor und Kreativität.
 
@@ -1701,24 +1668,9 @@ lustiger.
 
 Bunte Mischung aus lustigen, kreativen und interaktiven Spielen für Gruppen.
 
-⸻
-
-## 🎮 Jackbox Games
-
-**Link:** https://jackboxgames.com
-**Spieleranzahl:** 1–10+
-**Beschreibung:** Sammlung digitaler Partyspiele – perfekt für Streams, Familie &
-Freunde.
-**Alternativen:**
-
-- https://www.jackboxgames.com
-
-
-⸻
-
 ## 🎱 Corona Bingo
 
-**Link:** https://manfrancisco.com/coronabingo/
+**Link:** https://coronabingo.com.ar/en
 **Spieleranzahl:** 2+
 **Beschreibung:** Klassisches Bingo mit pandemiebezogenen Memes.
 
@@ -1726,7 +1678,7 @@ Freunde.
 
 ## 😂 Joking Hazard
 
-**Link:** https://playingcards.io/game/joking-hazard
+**Link:** https://playingcards.io/game/joking-hazard ✅
 **Spieleranzahl:** 3–10
 **Beschreibung:** Erstelle absurde Comic-Strips aus Karten – ähnlich wie „Cards Against
 Humanity“.
@@ -1735,7 +1687,7 @@ Humanity“.
 
 ## 🍸 Truth or Drink
 
-**Link:** https://truthordrink.app/
+**Link:** https://truthordrink.app/ ✅
 **Spieleranzahl:** 2+
 **Beschreibung:** Entweder du antwortest ehrlich oder du trinkst – Partyklassiker.
 
@@ -1743,7 +1695,7 @@ Humanity“.
 
 ## ❓ Truth or Dare
 
-**Link:** https://psycatgames.com/app/truth-or-dare/
+**Link:** https://psycatgames.com/app/truth-or-dare/ ✅
 **Spieleranzahl:** 2+
 **Beschreibung:** Witzige oder peinliche Aufgaben und Fragen für jede Stimmung.
 
@@ -1751,7 +1703,7 @@ Humanity“.
 
 ## 🙊 Never Have I Ever
 
-**Link:** https://psycatgames.com/app/never-have-i-ever/
+**Link:** https://psycatgames.com/app/never-have-i-ever/ ✅
 **Spieleranzahl:** 2+
 **Beschreibung:** Finde heraus, was andere wirklich erlebt haben – oder auch nicht.
 
@@ -1759,7 +1711,7 @@ Humanity“.
 
 ## 🖼 Make It Meme
 
-**Link:** https://makeitmeme.com
+**Link:** https://makeitmeme.com ✅
 **Spieleranzahl:** 3–6
 **Beschreibung:** Erstelle und bewerte lustige Memes in Echtzeit.
 
@@ -1768,32 +1720,15 @@ Humanity“.
 
 ## 🧩 Meme Party
 
-**Link:** https://memeparty.fun
+**Link:** https://memeparty.fun ✅
 **Spieleranzahl:** 3–8
 **Beschreibung:** Kombiniere Memes mit Textkarten – wer ist am witzigsten?
 
 ⸻
 
-## 🎲 Qdice
-
-**Link:** https://qdice.wtf/planeta
-**Spieleranzahl:** 2+
-**Beschreibung:** Zufallsgenerator mit Mini-Entscheidungsspielen – ideal für
-Improvisation.
-
-⸻
-
-## 👽 Reptilians
-
-**Link:** https://reptilians.reeshill.net/
-**Spieleranzahl:** 4–12
-**Beschreibung:** Chaotisches Rollen- und Bluffspiel mit absurdem Sci-Fi-Flair.
-
-⸻
-
 ## 🗳 Votes Out
 
-**Link:** https://votesout.com
+**Link:** https://votesout.com ✅
 **Spieleranzahl:** 5–13
 **Beschreibung:** Diskutiere und stimme ab – wer fliegt raus?
 
@@ -1801,7 +1736,7 @@ Improvisation.
 
 ## ✊ What Beats Rock?
 
-**Link:** https://whatbeatsrock.com
+**Link:** https://whatbeatsrock.com ✅
 **Spieleranzahl:** 2+
 **Beschreibung:** Abstruse Varianten von „Schere, Stein, Papier“.
 
@@ -1809,7 +1744,7 @@ Improvisation.
 
 ## 🫢 Would You
 
-**Link:** https://wouldyou.app
+**Link:** https://wouldyou.app ✅
 **Spieleranzahl:** 2+
 
 
@@ -1820,7 +1755,7 @@ Diskussionen.
 
 ## 🐔 Chicken Koup
 
-**Link:** https://chickenkoup.com
+**Link:** https://chickenkoup.com ✅
 **Spieleranzahl:** 4–10
 **Beschreibung:** Lustiges Chaosspiel mit versteckten Zielen und Hühnerlogik.
 
@@ -1828,7 +1763,7 @@ Diskussionen.
 
 ## 🃏 Cards of Personality
 
-**Link:** https://cardsofpersonality.com
+**Link:** https://cardsofpersonality.com ✅
 **Spieleranzahl:** 3–10
 **Beschreibung:** Lerne Freunde durch persönliche Fragen besser kennen – oder nicht.
 
@@ -1836,7 +1771,7 @@ Diskussionen.
 
 ## 👥 Crowd Party
 
-**Link:** https://crowdparty.app
+**Link:** https://crowdparty.app ✅
 **Spieleranzahl:** 4–12
 **Beschreibung:** Ratespiele, Quizrunden und Challenges in einem Tool.
 
@@ -1844,7 +1779,7 @@ Diskussionen.
 
 ## 🐟 Fishbowl
 
-**Link:** https://fishbowl-game.com
+**Link:** https://fishbowl-game.com ✅
 **Spieleranzahl:** 4–12
 **Beschreibung:** Kombiniert Tabu, Pantomime & 1-Wort-Raten – spaßiges Gruppenspiel.
 
@@ -1852,58 +1787,24 @@ Diskussionen.
 
 ## 💣 Bang! Online
 
-**Link:** https://playbanggame.online
+**Link:** https://playbanggame.online ✅
 **Spieleranzahl:** 4–7
 **Beschreibung:** Western-Kartenspiel mit versteckten Rollen und dramatischen Duellen.
 
 ⸻
 
-## 🎙 Hey Robot
-
-**Link:** https://playheyrobot.com
-
-
-**Spieleranzahl:** 2–6
-**Beschreibung:** Bringe den Sprachassistenten dazu, bestimmte Begriffe zu sagen.
-
-⸻
-
 ## 🗣 Taboo
 
-**Link:** https://playtaboo.com
+**Link:** https://playtaboo.com ✅
 **Spieleranzahl:** 4–10
 **Beschreibung:** Erkläre Begriffe ohne verbotene Wörter – Klassiker unter den
 Wortspielen.
 
 ⸻
 
-## ⚔ Unmatched
-
-**Link:** https://unmatched.ludoratory.com
-**Spieleranzahl:** 2
-**Beschreibung:** Taktisches 1v1-Spiel mit berühmten Charakteren – digital spielbar.
-
-⸻
-
-## 🎭 Wittc
-
-**Link:** https://wittc.theoi.de
-**Spieleranzahl:** 4–10
-**Beschreibung:** Kreatives Partyspiel mit Fantasiefragen und verrückten Antworten.
-
-⸻
-
-## 🌐 Cosel
-
-**Link:** https://cosel.io
-**Spieleranzahl:** 3–10
-**Beschreibung:** Sozialspiel mit Fragen zur Entscheidungsfindung in Gruppen.
-
-⸻
-
 ## 🤼 Couch Sumo
 
-**Link:** https://couch-sumo.theoi.de
+**Link:** https://couch-sumo.theoi.de ✅
 **Spieleranzahl:** 2
 **Beschreibung:** Digitales, humorvolles 1v1 Sumo-Duell – ideal für kurze Duelle.
 
@@ -1912,7 +1813,7 @@ Wortspielen.
 ## 💡 Beam
 
 
-**Link:** https://goldenpigames.github.io/Beam/
+**Link:** https://goldenpigames.github.io/Beam/ ✅
 **Spieleranzahl:** 4–15
 **Beschreibung:** Teamspiel mit kreativen Denkaufgaben – ideal für größere Gruppen.
 
@@ -1920,31 +1821,15 @@ Wortspielen.
 
 ## 🚀 Here to There
 
-**Link:** https://heretothere.app
+**Link:** https://heretothere.app ✅
 **Spieleranzahl:** 4–15
 **Beschreibung:** Verbinde zwei Begriffe mit kreativen Konzeptketten.
 
 ⸻
 
-## 🎲 Laser Feelings
-
-**Link:** https://onesevendesign.com/laserfeelings/
-**Spieleranzahl:** 2–6
-**Beschreibung:** Leichtes Sci-Fi-Rollenspiel zum Improvisieren und Lachen.
-
-⸻
-
-## 🔮 Palace of Destiny
-
-**Link:** https://palacesphere.com/palace-of-destiny/
-**Spieleranzahl:** 2–6
-**Beschreibung:** Fantasievolles Adventure-Spiel mit Gruppenentscheidungen.
-
-⸻
-
 ## 💰 Plutopoly
 
-**Link:** https://plutopoly.web.app/
+**Link:** https://plutopoly.web.app/ ✅
 **Spieleranzahl:** 2–6
 **Beschreibung:** Parodie auf Monopoly – kurz, chaotisch, ideal für Freunde.
 
@@ -1952,7 +1837,7 @@ Wortspielen.
 
 ## 🌬 Wing It: Beyond
 
-**Link:** https://wing-it-beyond.netlify.app
+**Link:** https://wing-it-beyond.netlify.app ✅
 **Spieleranzahl:** 3–7
 **Beschreibung:** Erzähle verrückte Geschichten mit zufälligen Karten – Impro-Spaß pur.
 
@@ -1961,18 +1846,10 @@ Wortspielen.
 ## 🎭 Panto Party
 
 
-**Link:** https://www.pantoparty.com
+**Link:** https://www.pantoparty.com ✅
 **Spieleranzahl:** 4–12
 **Beschreibung:** Online-Pantomimespiel mit Begriffen und Teams.
 
-⸻
-
-## 🧾 Alias
-
-**Link:** https://www.playalias.com
-**Spieleranzahl:** 4–10
-**Beschreibung:** Erkläre Begriffe, ohne das Wort zu sagen – Punkt für jede richtige
-Antwort.
 
 # 8. 🎭 Rollenspiele und Simulationen
 
