@@ -1381,11 +1381,8 @@ Link:** https://tanksmith.io
 **Beschreibung:** Panzer-Action mit Mehrspieler-Schlachten.
 - **Agar.io
 Link:** https://agar.io
-
-
 **Spieleranzahl:** Multiplayer
 **Beschreibung:** Zellen wachsen lassen und andere Spieler fressen.
-
 - **Bonk.io
 Link:** https://bonk.io
 **Spieleranzahl:** Multiplayer
@@ -1425,10 +1422,7 @@ Link:** https://miniblox.io
 - **Nitroclash.io
 Link:** https://nitroclash.io
 **Spieleranzahl:** Multiplayer
-
-
 **Beschreibung:** Rennspiel mit Waffen und Power-Ups.
-
 - **Oombi.io
 Link:** https://oombi.io
 **Spieleranzahl:** Multiplayer
@@ -1469,8 +1463,6 @@ Link:** https://tagpro.koalabeast.com
 Link:** https://wanderers.io
 **Spieleranzahl:** Multiplayer
 **Beschreibung:** RPG-ähnliches IO-Spiel mit Erkundung und Kämpfen.
-
-
 - **Wilds.io
 Link:** https://wilds.io
 **Spieleranzahl:** Multiplayer
