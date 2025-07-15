@@ -2,7 +2,7 @@
 
 # Inhaltsverzeichnis
 
-- [1. 🎲 Brettspiele und Strategiespiele](https://github.com/jls-11/multiplayer-browsergames/tree/main?tab=readme-ov-file#1--brettspiele-und-strategiespiele)
+- [1. 🎲 Brettspiele und Strategiespiele](# 1. 🎲 Brettspiele und Strategiespiele)
 - [Benutzung](#benutzung)
 - [Lizenz](#lizenz)
 
