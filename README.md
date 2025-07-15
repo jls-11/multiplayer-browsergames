@@ -1,3 +1,11 @@
+# multiplayer-browsergames
+
+# Inhaltsverzeichnis
+
+- [1. 🎲 Brettspiele und Strategiespiele](#1. 🎲 Brettspiele und Strategiespiele)
+- [Benutzung](#benutzung)
+- [Lizenz](#lizenz)
+
 # 1. 🎲 Brettspiele und Strategiespiele
 
 ## 🧩 Brettspielplattformen und -sammlungen
