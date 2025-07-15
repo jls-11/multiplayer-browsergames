@@ -1,28 +1,28 @@
 # multiplayer-browsergames
 
-# Inhaltsverzeichnis
+# Table of contents
 
 - [1. 🎲 Brettspiele und Strategiespiele](#1--brettspiele-und-strategiespiele)
-
-- [2. 🃏 Kartenspiele](#2----kartenspiele)
  
-- [3. 💬 Wort- und Kommunikationsspiele](#3----wort--und-kommunikationsspiele)
+- [2. 🃏 Kartenspiele](#2--kartenspiele)
 
-- [4. 🧐 Rätsel- und Logikspiele](#4----r-tsel--und-logikspiele)
+- [3. 💬 Wort- und Kommunikationsspiele](#3--wort--und-kommunikationsspiele)
 
-- [5. 🏰 Digitale Escape Rooms und Interaktive Abenteuer](#5----digitale-escape-rooms-und-interaktive-abenteuer)
+- [4. 🧐 Rätsel- und Logikspiele](#4--rtsel--und-logikspiele)
 
-- [6. ⚔ “IO”-Spiele und Echtzeit-Action](#6----io--spiele-und-echtzeit-action)
-  
-- [7. 🎭 Partyspiele und soziale Deduktionsspiele](#7----partyspiele-und-soziale-deduktionsspiele)
+- [5. 🏰 Digitale Escape Rooms und Interaktive Abenteuer](#5--digitale-escape-rooms-und-interaktive-abenteuer)
 
-- [8. 🎭 Rollenspiele und Simulationen](#8----rollenspiele-und-simulationen)
+- [6. ⚔ “IO”-Spiele und Echtzeit-Action](#6--io-spiele-und-echtzeit-action)
+- 
+- [7. 🎭 Partyspiele und soziale Deduktionsspiele](#7--partyspiele-und-soziale-deduktionsspiele)
 
-- [9. 🕹 Kampf- und Kampfarena-Spiele](#9----kampf--und-kampfarena-spiele)
+- [8. 🎭 Rollenspiele und Simulationen](#8--rollenspiele-und-simulationen)
 
-- [10. 🧠 Quiz- und Wissensspiele](#10----quiz--und-wissensspiele)
+- [9. 🕹 Kampf- und Kampfarena-Spiele](#9--kampf--und-kampfarena-spiele)
  
-- [11. 🎮 Sammlungen und Plattformen](#11----sammlungen-und-plattformen)
+- [10. 🧠 Quiz- und Wissensspiele](#10--quiz--und-wissensspiele)
+
+- [11. 🎮 Sammlungen und Plattformen](#11--sammlungen-und-plattformen)
 
 
 # 1. 🎲 Brettspiele und Strategiespiele
